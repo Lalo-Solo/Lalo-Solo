@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lalo-Solo
-- 👀 I’m interested in integrating me into higher projects
+- 👀 I’m interested in integrating me into big projects
 - 🌱 I’m currently learning about Python, C, C++
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me @Lalo_Solo
